@@ -6,9 +6,10 @@ Table of contents
  * [Table of contents](#table-of-contents)
  * [Typical Day](#typical-day)
  * [Books](#books)
- * [About Blogs](#blogs)
- * [About Habbits](#habbits)
+ * [About Blogs](#about-blogs)
+ * [About Habbits](#about-habbits)
  * [Happiness](#happiness)
+ * [Internal Monologue](#internal-monologue)
 <!--te-->
 
 Typical Day
@@ -146,4 +147,17 @@ Nature follows unbroken mathematical laws and a chain of cause and effect from t
 **I’ve also come to believe in the complete and utter insignificance of the self**, and I think that helps a lot. For example, if you thought you were the most important thing in the universe, then you would have to bend the entire universe to your will. If you’re the most important thing in the universe, then how could it not conform to your desires. If it doesn’t conform to your desires, something is wrong. However, if you view yourself as a bacteria or an amoeba or if you view all of your works as writing on water or building castles in the sand, then you have no expectation from how life should actually be. Life is just the way it is. Then you accept that and you have no cause to be happy or unhappy. Those things almost don’t apply.
 
 What you’re left with in that neutral state is not neutrality. I think people think, “Oh, that would be a very bland existence.” No, this is the existence that little children live. If you look at little children, on balance, they’re generally pretty happy because they are really immersed into the environment and the moment without any thought of how it should be given their personal preferences and desires. I think the neutral state is actually a perfection state. One can be very happy as long as one isn’t too caught up in their own heads.
+
+
+Internal Monologue
+=================
+
+I try to keep an eye on my internal monologue. It doesn’t always work. In the computer programming sense, I try to run my brain in debugging mode as much as possible. When I’m talking to someone, **like I’m talking to you right now, or when I’m engaged in a group activity, it’s almost impossible because your brain has too many things to handle. If I’m by myself, like just this morning, I’m brushing my teeth and I start thinking forward to the podcast.**
+
+I started going through this little fantasy where I imagined you asking me a bunch of questions and I was **fantasy answering them. Then I caught myself. I put my brain in debug mode** and just watched every little instruction go by.
+I said, “Why am I fantasy future planning? Why can’t I just stand here and brush my teeth?” It’s the awareness that my brain was running off in the future and planning some fantasy scenario out of ego. I was like, “Well, do I really care if I embarrass myself on Shane’s podcast? Who cares? I’m going to die anyway. This is all going to go to zero and I won’t remember anything, so this is pointless.”
+At that point, I shut down and I went back to brushing my teeth. Then I was noticing how good the toothbrush was and how good it felt. Then the next moment I’m off to thinking something else. I have to look at my brain again and say, “Do I really need to solve this problem right now?”
+
+**The reality is that 95% of what my brain runs off and tries to do, I don’t need to tackle at that exact moment. In fact, if it’s like a muscle, then I’ll be better off resting it and being at peace and then when a particular problem arises, immerse myself in it. What I would rather dedicate myself to is, for example, right now as we’re talking, to be completely lost in the conversation and to be 100% focused on this as opposed to thinking about, “Oh, when I brushed my teeth, did I do it the right way?” or planning something else in my mind**. I think the ability is to singularly focus is related to the ability to lose yourself and be present, happy, and actually, ironically, more effective.
+
 
