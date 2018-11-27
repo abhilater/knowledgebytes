@@ -4,25 +4,12 @@ Table of contents
 =================
 <!--ts-->
  * [Table of contents](#table-of-contents)
- * [Installation](#installation)
  * [Typical Day](#typical-day)
+ * [Books](#books)
+ * [About Blogs](#blogs)
+ * [About Habbits](#habbits)
+ * [Happiness](#happiness)
 <!--te-->
-
-Installation
-============
-
-Linux
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
-OSX
-```bash
-$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
 
 Typical Day
 =================
@@ -33,7 +20,8 @@ specic time**. All I care about is am I doing what I want to do and am I being p
 I really want to break away from this idea of 40 hour weeks, or 60 hour weeks, or 80 hour weeks, 
 or 9-to-5, or roles, or jobs, or identities. It just all feels like a straitjacket
 
-### Books
+Books
+=================
 
 I don’t know about you, but I have very poor attention. **I skim. I speed read. I jump around**. 
 I could not tell you specific passages or quotes from books. At some deep level, you do absorb 
@@ -49,7 +37,8 @@ Scott Adams**
 **Complete list**
 https://fs.blog/naval-ravikant/
 
-### Blogs
+About Blogs
+=================
 
 I started reading less books and more blogs. Great blogs, like **Farnam Street** or **Kevin Simler’s blog, 
 Melting Asphalt**, and so on, you get incredibly smart people digestifying, simplifying, and writing these 
@@ -72,7 +61,8 @@ or blogs or Twitter or whatever, anything with ideas and information and learnin
 to read are the ones that you’re excited about reading all the time.
 
 
-### Habits
+About Habits
+=================
 
 A big habit the I’m working on, but I’m trying to **turn off my monkey mind**. I think, when we’re born 
 as children, we’re pretty blank slates. We’re living very much in the moment. We’re essentially just
@@ -138,7 +128,8 @@ and however long it takes is how longit takes. I do not start my day, and I don�
 is imploding and melting down, it can wait another 30 minutes until I’m done working out.
 
 
-### Happiness
+Happiness
+=================
 
 Today, I believe that happiness is, **it’s really a default state. It’s what’s there when you remove the sense that something is missing in your life**. We are highly judgmental, survival, and replication machines. We are constantly walking around thinking I need this, I need that, trapped in the web of desires. **Happiness is that state when nothing is missing. When nothing is missing, your mind shuts down and your mind stops running into the future or running into the past to regret something or to plan something.**
 
