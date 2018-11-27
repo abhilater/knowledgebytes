@@ -111,3 +111,23 @@ There’s a series of concentric circles starting out from me. Because my physic
 my number one priority, then I could never say I don’t have time. In the morning, I work out 
 and however long it takes is how longit takes. I do not start my day, and I don’t care if the world
 is imploding and melting down, it can wait another 30 minutes until I’m done working out.
+
+
+### Happiness
+
+Today, I believe that happiness is, **it’s really a default state. It’s what’s there when you remove the sense that something is missing in your life**. We are highly judgmental, survival, and replication machines. We are constantly walking around thinking I need this, I need that, trapped in the web of desires. **Happiness is that state when nothing is missing. When nothing is missing, your mind shuts down and your mind stops running into the future or running into the past to regret something or to plan something.**
+
+In that absence for a moment, you have internal silence. When you have internal silence, then you are content and you are happy. Feel free to disagree, again, it’s different for everybody, but people believe mistakenly that happiness is about positive thoughts and positive actions.
+
+The more I’ve read, the more I’ve learned, the more I’ve experienced, because I verify this for myself, **every positive thought essentially holds within it a negative thought**. It is a contrast to something negative. The Tao Te Ching says this more articulately than I ever could, but it’s all **duality and polarity**.
+**If I say I’m happy, that means that I was sad at some point. If I say he’s attractive, then that means that somebody else is unattractive. Every positive thought even has a seed of a negative thought within it and vice versa, which is why a lot of greatness in life comes out suffering**. You have to view the negative before you can aspire to and then appreciate the positive.
+
+All of that said, long winded, to me **happiness is not about positive thoughts. It’s not about negative thoughts. It’s about the absence of desire, especially the absence of desire for external things. The fewer desires I can have, the more I can accept the current state of things, the less my mind is moving because the mind really exists in motion towards the future or the past. The more present I am, the happier and more content I will be. If I latch onto that, if I say, “Oh, I’m happy now”, and I want to stay happy, then I’m going to drop out of that happiness. Now, suddenly, the mind is moving. It’s trying to attach to something. It’s trying to create a permanent situation out of a temporary situation.**
+
+**Happiness to me is mainly not suffering, not desiring, not thinking too much about the future or the past, really embracing the present moment and the reality of what is, the way it is. Nature has no concept of happiness or unhappiness. To a tree, there is no right or wrong. There is no good or bad.**
+
+Nature follows unbroken mathematical laws and a chain of cause and effect from the big bang to now. Everything is perfect exactly the way it is. It is only in our particular minds that we’re unhappy or not happy and things are perfect or imperfect because of what we desire.
+**I’ve also come to believe in the complete and utter insignificance of the self**, and I think that helps a lot. For example, if you thought you were the most important thing in the universe, then you would have to bend the entire universe to your will. If you’re the most important thing in the universe, then how could it not conform to your desires. If it doesn’t conform to your desires, something is wrong. However, if you view yourself as a bacteria or an amoeba or if you view all of your works as writing on water or building castles in the sand, then you have no expectation from how life should actually be. Life is just the way it is. Then you accept that and you have no cause to be happy or unhappy. Those things almost don’t apply.
+
+What you’re left with in that neutral state is not neutrality. I think people think, “Oh, that would be a very bland existence.” No, this is the existence that little children live. If you look at little children, on balance, they’re generally pretty happy because they are really immersed into the environment and the moment without any thought of how it should be given their personal preferences and desires. I think the neutral state is actually a perfection state. One can be very happy as long as one isn’t too caught up in their own heads.
+
