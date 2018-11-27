@@ -10,6 +10,13 @@ Table of contents
  * [About Habbits](#about-habbits)
  * [Happiness](#happiness)
  * [Internal Monologue](#internal-monologue)
+ * [Awareness](#awareness)
+ * [Foundational Values](#foundational-values)
+    * [Honesty](#honesty)
+    * [Short term](#short-term)
+    * [Peer relationships](#peer-relationships)
+    * [Anger](#anger)
+    * [Freedom](#freedom)
 <!--te-->
 
 Typical Day
@@ -159,5 +166,51 @@ I said, “Why am I fantasy future planning? Why can’t I just stand here and b
 At that point, I shut down and I went back to brushing my teeth. Then I was noticing how good the toothbrush was and how good it felt. Then the next moment I’m off to thinking something else. I have to look at my brain again and say, “Do I really need to solve this problem right now?”
 
 **The reality is that 95% of what my brain runs off and tries to do, I don’t need to tackle at that exact moment. In fact, if it’s like a muscle, then I’ll be better off resting it and being at peace and then when a particular problem arises, immerse myself in it. What I would rather dedicate myself to is, for example, right now as we’re talking, to be completely lost in the conversation and to be 100% focused on this as opposed to thinking about, “Oh, when I brushed my teeth, did I do it the right way?” or planning something else in my mind**. I think the ability is to singularly focus is related to the ability to lose yourself and be present, happy, and actually, ironically, more effective.
+
+
+Awareness
+=================
+
+I think a lot of, for example, like Buddhists talk about, is **awareness versus the ego**. What they’re really talking about is you can think of **your brain, your consciousness, as a multi-layered mechanism. There’s kind of a core base kernel level OS that’s running. Then there’s applications that are running on top**. I like to think of it as computer and geek speak.
+I’m actually going back to my awareness level of OS, which is always calm, always peaceful, and generally happy and content. I’m trying to stay in that mode and not activate the monkey mind, which is always worried and frightened and anxious, but serves incredible purpose. I’m trying not to activate that program until I need it. When I need it, I want to just focus on that program. If I’m running it 24/7, all the time, I’m wasting energy and it becomes me. I am more than that.
+
+I think another thing that spirituality or religion or Buddhism or anything you follow will **teach you over time is that you are more than just your mind. You are more than just your habits. You are more than just your preferences. You’re a level of awareness. You’re a body. Modern humans, we don’t live enough in our body. We don’t live enough in our awareness. We live too much in this internal monologue in our heads. All of which, by the way, is just programmed into you by society and by the environment from when you were younger.**
+
+You are basically a bunch of **hardware DNA written, that then reacted to environmental effects when you were younger. Then you recorded the things that were good and bad and you use that to prejudge everything that’s going to be thrown against you**. Then you’re using that to constantly try and predict and change the future.
+
+As you get older and older, the sum of these preferences that you’ve accumulated is very, very large. **Some of these reactions, habitual reactions, that you’ve accumulated is very, very large, and then they end up as runaway freight trains that control your mood. We should control our own moods**. Why don’t we study how to control our moods? What a masterful thing that would be if you could say, “Well, right now I would like to be in the curious state”, and then you can genuinely set yourself into the curious state. Or you say, “I want to be in a mourning state. I’m mourning a loved one and I want to grieve for them, but I really want to grieve. I really want to feel that. I don’t want to be distracted right by computer programming problem that’s due tomorrow.”
+I think that **the mind itself is a muscle and it can be trained and it can be conditioned. It has just been haphazardly conditioned by society out of our control. If you look at it with awareness and intent, and it’s a 24/7 job, you’re working at it every moment of every day, I think you can unpack your own mind and your emotions and your thoughts and your reactions and you can start re-configuring. You can start rewriting this program to what you want.**
+
+
+Foundational Values
+=================
+Foundational values to me are - “You know what, this is a habit. This is a way of life. I’m not going to compromise on it. I’m going to stay this way forever. I don’t want to live life any other way.”
+
+Honesty
+=================
+I think honesty is a core, core, core value. To give you examples of what I mean by honesty is I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say.
+If I disconnect what I’m thinking from what I’m saying, that creates multiple threads in my mind, that means that I’m no longer in the moment, and that means that I now have to be future-planning or past-regretting every time I’m talking to somebody. Anyone around whom I can’t be fully honest, I don’t want to be around.
+
+What radical honesty just means that I want to be free. Part of being free means that I can say what I think and think what I say. They’re highly congruent and integrated. Richard Feynman famously said, “You should never, ever fool anybody and you are the easiest person to fool.” The moment you tell somebody else something that’s not honest, you’ve lied to yourself. Then you’ll start believing your own lie. Then that will disconnect you from reality and take you down the wrong road.
+It’s really important for me to be honest. I don’t go out of my way volunteering negative or nasty things. I would combine radical honesty with an old rule that Warren Buffet has, which is praise speci cally, criticize generally. I try to follow this. I don’t always follow it, but I think I follow it enough that it made
+a difference in my life. If you have a criticism of someone, then don’t criticize the person, criticize the general approach or criticize that class of activities. If you have to praise somebody, then always try and  nd the person who is the best example of what you’re praising and then that praise that person, speci cally. That way people’s egos and identities, which we all have, don’t work against you, they work for you.
+
+Short term 
+=================
+Foundational value is I don’t believe in any short-term thinking or dealing. Let’s say I’m doing business with somebody and they think in a short-term manner with somebody else, then I don’t want to do business with that person anymore. I think all the bene ts in life come from compound interest, whether in money or in relationships or love or health or activities or habits. I only want to be around people that I know I’m going to be around with for the rest of my life. I only want to work on things that I know have long-term payout.
+
+Peer relationships
+=================
+Another one is I only believe in peer relationships. I don’t believe in hierarchical relationships. I don’t want to be above anybody and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like peer, then I just don’t want to interact with that human
+
+Anger
+=================
+I don’t believe in anger anymore. That was something that was good when I was young and full of testosterone, but now I always like the Buddhist saying that anger is a hot coal that you hold in your hand while waiting to throw it
+at somebody. I don’t want to be angry and I don’t want to be around angry people. I just cut them out of my life. I’m not judging them
+
+Freedom
+=================
+My old de nition was freedom to, freedom to do anything I want. Freedom to do whatever I feel like, whenever I feel like. Now I would saythat the freedom that I’m looking for is internal freedom. It’s freedom from. It’s freedom from reaction. It’s freedom from feeling angry. It’s freedom from being sad. It’s freedom from being forced to do things.
+
 
 
