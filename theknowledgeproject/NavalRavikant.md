@@ -1,6 +1,31 @@
 # The Knowledge Project with Naval Ravikant 
 
-### Typical Day
+Table of contents
+=================
+<!--ts-->
+ * [Table of contents](#table-of-contents)
+ * [Installation](#installation)
+ * [Typical Day](#typical-day)
+<!--te-->
+
+Installation
+============
+
+Linux
+```bash
+$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+$ chmod a+x gh-md-toc
+```
+
+OSX
+```bash
+$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
+$ chmod a+x gh-md-toc
+```
+
+
+Typical Day
+=================
 
 There are days where I just work completely from home. There are days that I don’t work. 
 I’m actually even trying to get **rid of this concept of having to be in a specific place at a 
