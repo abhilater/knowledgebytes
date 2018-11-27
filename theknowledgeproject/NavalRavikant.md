@@ -1,13 +1,13 @@
 # The Knowledge Project with Naval Ravikant 
 
 ### Typical Day
-```
+
 There are days where I just work completely from home. There are days that I don’t work. 
 I’m actually even trying to get rid of this concept of having to be in a specific place at a 
 specic time. All I care about is am I doing what I want to do and am I being productive and am I happy. 
 I really want to break away from this idea of 40 hour weeks, or 60 hour weeks, or 80 hour weeks, 
 or 9-to-5, or roles, or jobs, or identities. It just all feels like a straitjacket
-```
+
 
 ### Books
 ```
