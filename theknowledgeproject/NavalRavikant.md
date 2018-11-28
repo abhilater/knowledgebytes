@@ -25,6 +25,8 @@ Table of contents
  * [Reality](#reality)
  * [2-Factor Auth](#2-factor-auth)
  * [Desire And Aversion](#desire-and-aversion)
+ * [Meaning of Life](#meaning-of-life)
+ * [Reference](#reference)
 <!--te-->
 
 Typical Day
@@ -309,3 +311,19 @@ We just bought a new car. We have a baby. We needed a safer car. We were driving
 
 You’re meant to do something. You’re not just meant to lie there in the sand and meditate all day long. You should self-actualize. You should do what you are meant to do.
 The idea that you’re going to change something in the outside world and that is going to bring you the peace and everlasting joy and the happiness that you deserve, that is a fundamental delusion that we all suffer from, including me. The mistake over and over and over is to say, “Oh, I’ll be happy when I get that thing, whatever that is.” That’s the fundamental mistake that we all make, including me, 24/7, all day long.
+
+Meaning of Life
+==================
+
+### I want to end with a really unbounded, big question, which is: What is the meaning and purpose of life?
+
+I’ll give you three answers. One is it’s personal. You have to  nd your meaning. Any piece of wisdom that anybody else gives you, whether it’s Buddha or you or me, is going to sound like nonsense. I think fundamentally you just have to  nd it for yourself, so the important part is not the answer, it’s the question. You just have to sit there and dig with the question. It might take you years or decades. When you  nd an answer you’re happy with, that will be fundamental to your life.
+
+The second answer I would give is there is no meaning to life. There is no purpose to life. Osho said, “It’s like writing on water or building houses on sand.” The reality is you’ve been dead for the history of the universe, it’s 10 billion years or more. You will be dead for the next 70 billion years or so until the heat death of universe.
+Anything you do will fade. It will disappear, just like the human race will disappear and the planet will disappear. Get to Mars, even that group will disappear. No one is going to remember you past a certain number of generations, whether you’re an artist or a poet or a conqueror or a pauper or nothing. There’s no meaning.
+
+You have to create your own meaning, which is what it boils down to. You have to decide. Is this a play that I’m going to that I’m just watching? Is there a self-actualization dance that I’m doing? Is there a speci c thing that I desire just for the heck of it? These are all meanings you are making up.
+
+Reference
+==============
+https://www.fs.blog/wp-content/uploads/2017/02/Naval-Ravikant-TKP.pdf
