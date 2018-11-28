@@ -21,6 +21,10 @@ Table of contents
  * [Singularity](#singularity)
  * [Reading Taking Notes](#reading-taking-notes)
  * [Money](#money)
+ * [Basics](#basics)
+ * [Reality](#reality)
+ * [2-Factor Auth](#2-factor-auth)
+ * [Desire And Aversion](#desire-and-aversion)
 <!--te-->
 
 Typical Day
@@ -268,3 +272,40 @@ Money
 
 I’m not in this to make money. Money is just a piece of paper. Every time I see one of these billionaire founders giving away to a hospital or whatever, you know they overshot. They don’t need that much money. There’s huge diminishing returns to money after a certain point, especially now that I’m more into freedom from rather than freedom to.
 There’s nothing I want to do that I can’t do. Literally, money in that sense is a boat anchor around my neck. All it is something that I’m then fearful of losing, something I’m getting into jealousy debates about, something that people want from me.
+
+Certainly listen, absorb, but don’t try and emulate. It’s a fool’s errand. Instead, each person is uniquely quali ed at something. They have some speci c knowledge, capability, and desire that nobody else in the world does. That’s just purely from the combinatorics of human DNA and development.
+Your goal in life is to  nd out the people who need you the most, to  nd out the business that needs you the most, to  nd the project and the art that needs you the most. There is something out there just for you. What you don’t want to do is be building checklists and decision frameworks built on what other people are doing. You’re never going to be that. You’ll never be good at being somebody else.
+
+Basics
+============
+Relativity is a fascinating thing. It’s a very advanced concept, but in way it’s very simple because Einstein came up with it with what are called Gedanken, fancy word for thought experiments. It means thought experiments in German. He was able to basically just do logical thought experiments in his mind until he came up with relativity and then he formalized it with mathematics and with predictions that he made that were later unfalsi ed, that were basically shown to be true. A really brilliant physicist like that, they get there by pure reasoning and pure logical reasoning. It’s not like he had to go draw out the complicated diagrams and so on. He just understood things at a very basic, fundamental level.
+Again, this goes back to, I think, the really smart thinkers are clear thinkers and they understand the basics at a very, very fundamental level. I would rather understand the basics really well than have memorized all kinds of complicated concepts that I can’t stitch together and I can’t rederive them from the basics. If you can’t rederive them from the basics as you need it, you’re lost. You’re just memorizing.
+
+Reality
+================
+
+I think the hard thing here is seeing the truth. To see the truth, you have to get your ego out of the way because your ego doesn’t want to face the truth. The smaller you can make your ego, the less conditioned you can make your reactions, the less desires you can have about the outcome you want, the easier it to see the reality.
+
+There’s one de nition of a moment of suffering is that it’s that moment when you see things exactly the way they are. This whole time you’ve been convinced your business is doing great and really you’ve ignored the signs that it’s not doing that well. Then your business fails and you suffer. That’s just because you’ve been putting off reality. You’ve been hiding it from yourself.
+
+The good news is that when you’re suffering, when you’re in pain, that’s a moment of truth. That is a moment where you’re forced to embrace reality actually the way it is. Then you can make meaningful change and progress. You can only do that when you’re starting with the truth.
+
+The more of a desire that I have that it work out a certain way, the less likely I am to see the truth. Especially in business, if something isn’t going well, I try to acknowledge that publicly and I try to acknowledge it publicly in front of my co-founders and friends and co-workers. That way then I’m not hiding it from anybody else. If I’m not hiding it from anybody, then I’m not going to basically delude myself from what’s actually going on.
+
+2-Factor Auth
+====================
+I wish there was a two-factor code against my calendar because current me, present me, is always making promises for future me. Current me is tired, exhausted, hungry, wants to go home, wants to go to sleep, wants to read a book, wants to hang out with the wife and baby. Future me is this dynamic, high-energy individual who will always show up to every meeting and will have a lot of energy and will want to get a lot of things done.
+I commit myself to all these commitments in the future that when the future me arrives, it’s actually this present me that’s back to being lazy and hungry and tired. I want a two-factor against myself. The way I would like to do that is I think every time I make a commitment to anything, I should instead just write it down and then just check back in 48-hours later and then with a clear mind say do I commit to doing this? Even better would be saying, “If I commit to doing something, then I commit to doing it right now.” If I’m not willing to do it right now, then don’t do it. Don’t commit to it.
+
+All that said, I have a hard time saying no. If I had one wish, the most important thing to me would be I would constantly be running my mind in debug mode. I would literally be watching every single thought I have and letting no reaction pass without it being stopped, inspected, strip searched, examined, understood, and then let go. The reality is that takes a lot of time and we’re highly conditioned creatures. I do view a lot of my goals over the next few years of unconditioning previous learned responses or habituated responses, so that I can make decisions more cleanly in the moment without relying on memory or prepackaged heuristics and judgments.
+
+Desire And Aversion
+=====================
+### What’s the most common mistake you see people make over and over?
+
+I think the most common mistake if I look at how they’re on planet earth, for humanity, is the idea or the belief that you’re going to be made happy because of some external circumstance.
+
+We just bought a new car. We have a baby. We needed a safer car. We were driving a little mini cooper before. Not enough room in there.We bought a new car. Now I’m waiting for the new car to arrive. Of course, every night, I’m on the forums reading about the car. Why am I doing that? It’s a silly object. It’s a silly car. It’s not going to change my life that much or at all. I know that the instant the car arrives I won’t care about it anymore. What it is is, I’m addicted to the desiring. I’m addicted to the idea that this external thing is going to bring me some kind of happiness and joy and this is completely delusional.
+
+You’re meant to do something. You’re not just meant to lie there in the sand and meditate all day long. You should self-actualize. You should do what you are meant to do.
+The idea that you’re going to change something in the outside world and that is going to bring you the peace and everlasting joy and the happiness that you deserve, that is a fundamental delusion that we all suffer from, including me. The mistake over and over and over is to say, “Oh, I’ll be happy when I get that thing, whatever that is.” That’s the fundamental mistake that we all make, including me, 24/7, all day long.
