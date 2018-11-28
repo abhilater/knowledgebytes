@@ -17,6 +17,10 @@ Table of contents
     * [Peer relationships](#peer-relationships)
     * [Anger](#anger)
     * [Freedom](#freedom)
+ * [Meditation](#meditation)   
+ * [Singularity](#singularity)
+ * [Reading Taking Notes](#reading-taking-notes)
+ * [Money](#money)
 <!--te-->
 
 Typical Day
@@ -213,4 +217,54 @@ Freedom
 My old de nition was freedom to, freedom to do anything I want. Freedom to do whatever I feel like, whenever I feel like. Now I would saythat the freedom that I’m looking for is internal freedom. It’s freedom from. It’s freedom from reaction. It’s freedom from feeling angry. It’s freedom from being sad. It’s freedom from being forced to do things.
 
 
+Meditation
+=================
+I think everyone knows it’s possible. The reason they know it’s possible is, there’s a great Osho lecture, that’s titled 
+[The Attraction of Drugs is Spiritual](https://o-meditation.com/2012/06/12/the-attraction-for-drugs-is-spiritual-osho/). He talks about why do people do drugs, everything from alcohol to psychedelics to cannabis to, you name it, and they’re doing it to control their mental state. They’re doing it to control how they react. Sometimes it’s worse and sometimes it’s better. Some people drink because then they don’t care as much or they’re pot-heads because they can zone out or they do psychedelics so they can feel very present or connected to nature or what have you. The attraction of drugs is spiritual.
 
+To some extent, we already know that we can control our internal state. We just use external bioactive substances to do it. Now, there are a lot more techniques that are out there in the public domain, many of them dug up from older times. These range from cognitive therapy and behavioral psychology, to meditation to taking long walks in nature. For example, there’s a famous line from Pascal that says that, “All of man’s problems arise because he can’t sit by himself in a room for 30 minutes”.
+
+There are many techniques one can use. Another one, for example, that I think a lot of smart people say is, “If you’re angry about something,or if you get an unhappy email and you want to respond, don’t respond for 24 hours.” What does that do? You calm down. The emotions subside, the hormones go down, and you’re in a better mental state 24 hours later.
+
+Socially, we’re told, “Go work out. Go look good.” That’s a multi-player competitive game. Other people can see if I’m doing a good job or not. We’re told, “Go make money. Go buy a big house.” Again, external monkey-player competitive game. When it comes to learn to be happy, train yourself to be happy, completely internal, no external progress, no external validation, 100% you’re competing against yourself, single-player game. We are such social creatures, we’re more like bees or ants, that we’re externally programmed and driven, that we just don’t know how to play and win at these single-player games anymore. We compete purely on multi-player games. **The reality is life is a single-player game. You’re born alone. You’re going to die alone. All of your interpretations are alone. All your memories are alone. You’re gone in three generations and nobody cares. Before you showed up, nobody cared. It’s all single-player.**
+Exactly right. All the real score cards are internal
+
+Hey, let’s do a group meditation. Hey, let’s go to this group event. Hey, let’s go to this group lecture. I keep coming back
+to this one line that I read, like everything I just read, which said, “Only the individual transcends.” Nobody reaches enlightenment or internal happiness or does serious internal work in group settings. It is a very lonely kind of task. To some extent, I think that people who are constantly looking for social af rmation in their internal work aren’t that serious about it. It’s  ne. I’m not judging. They’re craving more social interaction than they are really craving internal work.
+
+### What big ideas have you changed your mind on in the last few years?
+
+There’s a couple, obviously, in the business level. I think on a more practical basis, I’ve just stopped believing in macroeconomics. The further I get, the more I realize macroeconomics is a combination of voodoo complex systems and politics. 
+I think of macroeconomics as a junk science.
+
+That said, microeconomics and game theory are fundamental. I don’t think you can be successful in business or even navigating through most of our modern capital society without an extremely good understanding of supply and demand and labor versus capital and game theory and tit for tat and those kinds of things. Macroeconomics is a religion that I gave up, but there are many others. I’ve changed my mind on death, on the nature of life, on the purpose of life, on marriage. I was originally not someone who wanted to be married and have kids. There have been a lot of fundamental changes. The most practical one is I gave up macro and I embraced micro.
+
+I would say that’s not just true in macroeconomics, that true in everything. I don’t believe in macro-environmentalism, I believe in micro- environmentalism. I don’t believe in macro-charity. I believe in micro-charity. I don’t believe in macro improving the world. There’s a lot of people out there who get really  red up about I’m going to change the world, I’m going to change this person, I’m going to change the way people think. I think it’s all micro. It’s like change yourself, then maybe change your family and your neighbor before you get into abstract concepts about I’m going to change the world.
+
+Singularity
+=================
+The singularity is this idea that technological change is accelerating and at some point the acceleration gets so great that there’s massive change in our lifetimes. We create things like general AI. We start living forever.
+I was trained in a little bit of science and I consider myself an amateur scientist. I know just enough to know how little we know. Physics still can’t solve the **three-body problem**. Collide 3 billard balls together, can’t tell you what happens. We cannot properly model complex systems. We can’t tell the weather next week. We still can’t solve the vast majority of chronic diseases. We’re just starting to connect the gut and the brain and bacteria in our system together.
+There is so much complexity in nature and humans have just begun to scratch the surface
+
+We are no closer to creating a general AI, I think, than we were 20 years ago. There are actual huge advances that have been made in speci c AI, but these are data processing problems. Basically if I dump huge amounts of real world images into a neural network, then I can do better image recognition, no question. That is real. That is a data-driven solution. The algorithms haven’t gotten any better. The structure of how the human brain works and how the human body works is still so far advanced beyond our machine capabilities that, certainly, if there’s going to be a singularity, it’s not going to happen in my lifetime.
+
+Reading Taking Notes
+=================
+### Yeah. I think that’s true. When you’re reading, do you just read and it sticks in your head or is it more like you take notes? Do you have a system for how you keep track of that or review them?
+
+I’m both lazy and I’m really focused on being present. I think taking notes is the same as taking photos when you’re on a trip. All it’s doing is taking you out of the moment.
+Who really sits there, years later, and goes back and looks at all their trip photos and gets nostalgic? Go take your next trip. I just don’t believe in anything from the past. Anything. No memories. No regrets. No people. No trips. Nothing.
+A lot of our unhappiness also comes from comparing things from the past to the present.
+
+First time you saw a sunset, it was amazing. It was jaw-dropping. You forgot yourself. The second time you saw it, it was cool. The hundredth time you see it, it’s nothing. The thousandth time you’re seeing it, and someone shows you a sunset, you’re like, “Well, actually, I saw this one sunset in Mexico at this time that was really cool.” You’re not even there.
+
+Actually my note taking is Twitter. What I do is I read and read and read. If I have some fundamental “ah ha” insight or concept, then what I like about Twitter is it forces me to distill that into a 140 characters. Then I try and put it out there as an aphorism and then I get attacked by all kinds of random people who point out all kinds of obvious exceptions and jump my throat. I’m like, “Why did I do this again?” Then I go into hiding for a little while.
+
+Absolutely. I think that’s why the smartest and the most successful people I know started out as losers. If you view yourself as a loser, as someone who was cast out by society and has no role in normal society, then you will do your own thing and you’re much more likely to  nd that winning path. It helps to start out by saying, “I’m never going to be popular. I’m never going to be accepted. I’m already a loser. I’m not going to get what all the other kids have. I’ve just got to be happy being me.”
+
+Money
+===============
+
+I’m not in this to make money. Money is just a piece of paper. Every time I see one of these billionaire founders giving away to a hospital or whatever, you know they overshot. They don’t need that much money. There’s huge diminishing returns to money after a certain point, especially now that I’m more into freedom from rather than freedom to.
+There’s nothing I want to do that I can’t do. Literally, money in that sense is a boat anchor around my neck. All it is something that I’m then fearful of losing, something I’m getting into jealousy debates about, something that people want from me.
