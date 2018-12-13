@@ -20,3 +20,11 @@ https://www.youtube.com/watch?v=ktlTxC4QG8g
 https://www.youtube.com/watch?v=j3TeLsaKzAM
 
 ![Imgur](https://i.imgur.com/ilUjO3V.png)
+
+
+80/20 rule
+===========
+
+https://www.youtube.com/watch?v=V28B_xOJzK4
+
+![Imgur](https://i.imgur.com/O0giiEb.png)
