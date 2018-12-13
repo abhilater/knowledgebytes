@@ -12,3 +12,11 @@ https://www.youtube.com/watch?v=ktlTxC4QG8g
 7. Sharpen the Saw - Go the long way even if it takes time.
 
 ![Imgur](https://i.imgur.com/2tVUysJ.png)
+
+
+4 hour work week big ideas
+========================
+
+https://www.youtube.com/watch?v=j3TeLsaKzAM
+
+![Imgur](https://i.imgur.com/ilUjO3V.png)
